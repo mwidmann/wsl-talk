@@ -1,12 +1,12 @@
-## Post Mac Web-Development
-# with Windows 10 and WSL
+# Post-Mac Web Development with @css[max](Windows 10 and WSL)
+## @VlbgWebDev, 2018/08/14
 
-@mwidmann
+@css[twitter](@fa[arrow-left] @mwidmann)
 
 ---
 
 ### Windows? srsly?
-![Srsly](img/srsly.gif)
+![Srsly](assets/img/srsly.gif)
 ---
 
 ### But... Windows... sucks?!
