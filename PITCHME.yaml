@@ -1,9 +1,10 @@
+theme: black
 theme-override: assets/styles/styles.css
 transition: fade
 highlight : monokai
 code-line-numbers : true
 layout: center-right
-logo: assets/img/Russmedia_logo.svg
+logo: assets/img/russmedia.png
 logo-position: bottom-right
 background: assets/img/medienhaus.jpg
 background-size: cover
