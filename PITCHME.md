@@ -24,7 +24,7 @@
 
 @ul
 - Nice to look at hardware making one feel special
-  - 10 years ago ��
+  - 10 years age
 - pretty (and) stable operating system
 - Good/mostly consistent design language
 - Good tools
@@ -35,19 +35,33 @@
 
 ---
 
-## Why macOS is not for Web Development
-
-@ul
-- Apple decides everything, wants to close down system even more
-- Very expensive hardware
-  - touchbar
-  - butterfly keyboards
-  - Donglehell
-@ulend
-
----
-
-## Enter WSL
+# Enter WSL
 (Windows Subsystem for Linux)
 
 ---
+
+## Differences macOS/Windows
+
+@ul
+- Path differences: `/path/to/my/projects` vs. `C:\Path\To\My\Projects`
+- Path separator: `/` vs. `\`
+- Line endings: `lf` vs. `crlf`
+- Command diffences: `Cmd` vs. `Crtl`
+- Tools:
+  - `ls` vs. `dir`
+  - `rm` vs. `del`
+  - `cp` vs. `(x)copy`
+  - `mv` vs. `move`
+  - ...
+- and then...
+@ulend
+
+--
+@snap[east screenshot]
+![courtesy Falkor on github](https://raw.githubusercontent.com/Falkor/dotfiles/master/screenshots/screenshot_falkor_iterm.png)
+@endsnap
+
+@snap[west screenshot]
+![cmd](assets/img/cmd.exe.png)
+@endsnap
+--
