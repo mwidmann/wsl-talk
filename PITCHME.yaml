@@ -3,7 +3,7 @@ theme-override: assets/styles/PITCHME.css
 transition: fade
 highlight : monokai
 code-line-numbers : true
-layout: center-right
+layout: center
 
 footnote: Post-Mac Web Development with Windows 10 and WSL
 loop: false
