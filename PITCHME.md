@@ -74,6 +74,7 @@
 # Installation
 
 - enable WSL feature in Windows 10
+
 @snap[south-east]
 ![enable feature](assets/img/enable-wsl.png)
 @snapend
