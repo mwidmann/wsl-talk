@@ -3,7 +3,6 @@
 body {
   font-family: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Droid Sans,Helvetica Neue,Fira Sans,sans-serif;
   font-size: 16px;
-  color: #000000;
   background-color: #fb7900;
 }
 .reveal h1, .reveal h2 {
@@ -18,7 +17,6 @@ body {
 .reveal h1 .max {
   font-family: 'bebas-neue-by-fontfabric';
   font-size: 9rem;
-  line-height: 0.75;
   letter-spacing: -0.2rem;
   color: #ffffff;
 }

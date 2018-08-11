@@ -1,4 +1,3 @@
-theme: black
 theme-override: assets/styles/PITCHME.css
 transition: fade
 highlight : monokai
