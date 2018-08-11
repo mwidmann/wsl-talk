@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/woff2-cffbased/BebasNeue-Regular.woff2?raw=true') format('woff2'),
+		 url('https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/woff-cffbased/BebasNeue-Regular.woff?raw=true') format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+}
+Bebas-Neue/fonts/woff2-cffbased/BebasNeue-Regular.woff2
+body {
+  font-family: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Droid Sans,Helvetica Neue,Fira Sans,sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #fb7900;
+}
+.reveal h1, .reveal h2 {
+  text-transform: none;
+}
+.reveal h1 {
+
+  font-family: 'Lobster Two';
+  letter-spacing: -0.2rem;
+  line-height: 1;
+  font-size: 5rem;
+}
+.reveal h1 .max {
+  font-family: 'Bebas Neue';
+  font-size: 9rem;
+  line-height: 0.75;
+}
+.twitter {
+  color: #00aced;
+  display: inline-flex;
+  align-items: center;
+}
