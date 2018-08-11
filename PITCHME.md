@@ -13,7 +13,6 @@
 
 @snap[east bio]
 @css[bio-headline](Martin Widmann)
-<br>
 @css[bio-byline](@fa[twitter pad-fa] mwidmann)
 @snapend
 

@@ -1,8 +1,16 @@
+:root {
+  /* palette courtesy of http://www.colourlovers.com/palette/92095/Giant_Goldfish */
+  --blue: #69D2E7;
+  --blue-lighter: #A7DBD8;
+  --lime: #E0E4CC;
+  --orange-lighter: #F38630;
+  --orange: #FA6900;
+}
 @import url('https://fonts.googleapis.com/css?family=Lobster+Two:700');
 @import url("https://use.typekit.net/jpo6jxj.css");
 body {
   font-size: 16px;
-  background-color: #fb7900;
+  background-color: var(--blue);
 }
 .reveal {
   font-family: 'bebas-neue-by-fontfabric';
@@ -14,13 +22,13 @@ body {
 .reveal h1 {
   line-height: 1;
   font-size: 4.5rem;
-  color: #000000;
+  color: var(--orange-lighter);
 }
 .reveal h1 .max {
   font-family: 'bebas-neue-by-fontfabric';
   font-size: 9rem;
   letter-spacing: -0.2rem;
-  color: #ffffff;
+  color: var(--lime);
 }
 .reveal h2 {
   font-size: 3rem;
@@ -32,7 +40,6 @@ body {
 }
 
 .bio-headline {
-  color: white;
   letter-spacing: 4px;
   text-transform: uppercase;
   font-size: 1.0em !important;
