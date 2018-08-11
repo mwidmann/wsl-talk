@@ -20,20 +20,32 @@
 
 ---
 
-## Why did macOS become the goto place for Web Development?
+## Why macOS for Web Development?
 
 @ul
 - Nice to look at hardware making one feel special
-  - 10 years ago
+  - 10 years ago ��
 - pretty (and) stable operating system
 - Good/mostly consistent design language
 - Good tools
 - BSD core for a very similar environment than on the servers running Linux
+  - which sometime is pretty different
+- homebrew
 @ulend
 
 ---
 
-## BSD Core
+## Why macOS is not for Web Development
+
+@ul
+- Apple decides everything, wants to close down system even more
+- Very expensive hardware
+  - touchbar
+  - butterfly keyboards
+  - Donglehell
+@ulend
+
+---
 
 ## Enter WSL
 (Windows Subsystem for Linux)
