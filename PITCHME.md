@@ -46,12 +46,10 @@
 - Path differences: `/path/to/my/projects` vs. `C:\Path\To\My\Projects`
 - Path separator: `/` vs. `\`
 - Line endings: `lf` vs. `crlf`
-- Command diffences: `Cmd` vs. `Crtl`
 - Tools:
   - `ls` vs. `dir`
   - `rm` vs. `del`
   - `cp` vs. `(x)copy`
-  - `mv` vs. `move`
   - ...
 - and then...
 @ulend
