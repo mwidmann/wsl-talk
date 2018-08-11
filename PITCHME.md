@@ -10,10 +10,12 @@
 
 ---
 
-### Windows? srsly?
+## Web Devlopment on Windows? srsly?
 ![Srsly](assets/img/srsly.gif)
 ---
 
-### But... Windows... sucks?!
+## But...
+
+---?image=assets/img/google.gif&size=cover&position=center center
 
 ---
