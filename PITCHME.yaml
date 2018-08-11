@@ -4,10 +4,6 @@ transition: fade
 highlight : monokai
 code-line-numbers : true
 layout: center-right
-logo: assets/img/russmedia.png
-logo-position: bottom-right
-background: assets/img/medienhaus.jpg
-background-size: cover
 
 footnote: Post-Mac Web Development with Windows 10 and WSL
 loop: false

@@ -3,13 +3,13 @@ body {
   font-size: 16px;
   color: #ffffff;
 }
-.h1 {
+h1 {
   color: #ffffff;
   letter-spacing: -0.2rem;
   line-height: 1;
   font-size: 5rem;
 }
-.h1 .max {
+h1 .max {
   font-size: 9rem;
   line-height: 0.75;
 }
