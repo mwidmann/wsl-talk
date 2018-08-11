@@ -56,12 +56,12 @@
 - and then...
 @ulend
 
---
-@snap[east screenshot]
+---
+@snap[west screenshot]
 ![courtesy Falkor on github](https://raw.githubusercontent.com/Falkor/dotfiles/master/screenshots/screenshot_falkor_iterm.png)
 @snapend
 
-@snap[west screenshot]
+@snap[east screenshot]
 ![cmd](assets/img/cmd.exe.png)
 @snapend
---
+---
