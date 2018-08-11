@@ -75,3 +75,17 @@
 
 - enable WSL feature in Windows 10
 ![enable feature](assets/img/enable-wsl.png)
+
+---
+
+# Installation
+
+- enable WSL feature in Windows 10
+- choose distribution of choice
+@ul
+  - ![Ubuntu](assets/img/ubuntu.png)
+  - ![Debian](assets/img/debian.png)
+  - ![Suse Leap](assets/img/suse-leap.png)
+  - ![Suse Enterprise](assets/img/suse-enterprise.png)
+  - ![Kali Linux](assets/img/kali.png)
+@endul
