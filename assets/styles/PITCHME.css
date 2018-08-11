@@ -2,22 +2,25 @@
 @import url("https://use.typekit.net/jpo6jxj.css");
 :root {
   /* palette courtesy of http://www.colourlovers.com/palette/92095/Giant_Goldfish */
+  --black: #333333;
   --blue: #69D2E7;
   --blue-lighter: #A7DBD8;
   --lime: #E0E4CC;
   --orange-lighter: #F38630;
   --orange: #FA6900;
+  --lobster: var(--lobster);
+  --bebas: 'bebas-neue-by-fontfabric';
 }
 body {
   font-size: 16px;
   background-color: var(--blue);
 }
 .reveal {
-  font-family: 'bebas-neue-by-fontfabric';
+  font-family: var(--bebas);
 }
 .reveal h1, .reveal h2 {
   text-transform: none;
-  font-family: 'Lobster Two';
+  font-family: var(--lobster);
 }
 .reveal h1 {
   line-height: 1;
@@ -25,7 +28,7 @@ body {
   color: var(--orange-lighter);
 }
 .reveal h1 .max {
-  font-family: 'bebas-neue-by-fontfabric';
+  font-family: var(--bebas);
   font-size: 9rem;
   letter-spacing: -0.2rem;
   color: var(--lime);
@@ -35,38 +38,15 @@ body {
 .reveal h2 {
   font-size: 3rem;
 }
-
-.bio img {
-    width: 50%;
-    border-radius: 50%;
+.bio {
+  font-family: var(--bebas);
+  font-size: 3.5rem;
+  color: var(--black);
 }
-
-.bio-headline {
-  letter-spacing: 4px;
-  text-transform: uppercase;
-  font-size: 1.0em !important;
+.bio span {
+  display: block;
 }
-
-.bio-byline {
-  color: darkgray;
-  font-size: 0.6em !important;
-}
-
-.bio-tagline {
-  color: gray;
-  font-size: 0.8em !important;
-  font-style: italic !important;
-}
-
-.bio-contact {
-  color: white;
-  font-size: 0.7em !important;
-}
-
-.bio-about {
-  font-size: 0.8em !important;
-}
-
-.bio-fa {
-  color: #fb7900;
+.bio-name {
+  font-family: var(--lobster);
+  font-size: 8rem;
 }
