@@ -43,8 +43,7 @@ body {
   font-family: var(--bebas);
   font-size: 9rem;
   letter-spacing: -0.2rem;
-  color: var(--lime);
-  text-shadow: 1px 1px 5px var(--orange);
+  color: var(--black);
   display: block;
 }
 .reveal h2 {
