@@ -59,9 +59,9 @@
 --
 @snap[east screenshot]
 ![courtesy Falkor on github](https://raw.githubusercontent.com/Falkor/dotfiles/master/screenshots/screenshot_falkor_iterm.png)
-@endsnap
+@snapend
 
 @snap[west screenshot]
 ![cmd](assets/img/cmd.exe.png)
-@endsnap
+@snapend
 --
