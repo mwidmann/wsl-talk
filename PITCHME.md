@@ -1,4 +1,4 @@
-# Post-Mac Web Development with @css[max](Windows 10 and WSL) <small>@VlbgWebDev, 2018/08/14</small>
+# Post-Mac Web Development with Windows 10 and WSL) <small>@VlbgWebDev, 2018/08/14</small>
 
 ---?image=assets/img/me.jpg&size=cover&position=center bottom
 
@@ -66,7 +66,7 @@
 @snapend
 ---
 
-# Enter WSL
+# @css[max](Enter WSL)
 (Windows Subsystem for Linux)
 
 ---
