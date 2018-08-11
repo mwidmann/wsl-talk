@@ -72,3 +72,6 @@ body {
 .reveal ul li img {
   max-width: 50%;
 }
+.reveal ul li img.wsl-dist {
+  max-with: 15%;
+}
