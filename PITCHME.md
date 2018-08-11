@@ -19,3 +19,23 @@
 ---?image=assets/img/google.gif&size=cover&position=center center
 
 ---
+
+## Why did macOS become the goto place for Web Development?
+
+@ul
+- Nice to look at hardware making one feel special
+  - 10 years ago
+- pretty (and) stable operating system
+- Good/mostly consistent design language
+- Good tools
+- BSD core for a very similar environment than on the servers running Linux
+@ulend
+
+---
+
+## BSD Core
+
+## Enter WSL
+(Windows Subsystem for Linux)
+
+---
