@@ -24,9 +24,9 @@ body {
   font-family: var(--lobster);
 }
 .reveal code {
-  padding: 0.2em 0.4em;
+  padding: 0.1em 0.3em;
   margin: 0;
-  font-size: 85%;
+  font-size: 80%;
   background-color: rgba(27,31,35,0.05);
   border-radius: 3px;
   font-family: 'Dank Mono', 'Fira Code', 'Menlo', monospace;
@@ -66,4 +66,7 @@ body {
   font-family: var(--lobster);
   color: var(--twitter-blue);
   font-size: 2rem;
+}
+.small img {
+  max-width: 10%;
 }

@@ -34,16 +34,10 @@
 @ulend
 
 ---
-
-# Enter WSL
-(Windows Subsystem for Linux)
-
----
-
 ## Differences macOS/Windows
 
 @ul
-- Path differences: `/path/to/my/projects` vs. `C:\Path\To\My\Projects`
+- Command diffences: `Cmd` vs. `Crtl`
 - Path separator: `/` vs. `\`
 - Line endings: `lf` vs. `crlf`
 - Tools:
@@ -55,11 +49,24 @@
 @ulend
 
 ---
-@snap[west screenshot]
+@snap[west]
 ![courtesy Falkor on github](https://raw.githubusercontent.com/Falkor/dotfiles/master/screenshots/screenshot_falkor_iterm.png)
 @snapend
 
-@snap[east screenshot]
+@snap[east small]
 ![cmd](assets/img/cmd.exe.png)
 @snapend
+---
+@snap[west small]
+![courtesy Falkor on github](https://raw.githubusercontent.com/Falkor/dotfiles/master/screenshots/screenshot_falkor_iterm.png)
+@snapend
+
+@snap[east]
+![cmd](assets/img/cmd.exe.png)
+@snapend
+---
+
+# Enter WSL
+(Windows Subsystem for Linux)
+
 ---
