@@ -157,7 +157,7 @@ Terminal
 [cmder](http://cmder.net)
 @snapend
 
-@snam[south]
+@snap[south]
 <small>Alternative Hyper, [hyper.is](https://hyper.is)</small>
 @snapend
 ---
@@ -180,7 +180,7 @@ MySQL client
 
 ---
 @snap[north comparison-title]
-MySQL client
+Quick Look
 @snapend
 
 @snap[west comparison]
@@ -196,3 +196,19 @@ MySQL client
 @snapend
 
 ---
+
+@snap[north comparison-title]
+Productivity
+@snapend
+
+@snap[west comparison]
+![Alfred](https://www.alfredapp.com/media/pages/home/search.jpg)
+<br/>
+  Alfred
+@snapend
+
+@snap[east comparison]
+![Wox](http://www.wox.one/images/wox_preview.jpg)
+<br>
+[Wox](http://www.wox.one)
+@snapend
