@@ -79,5 +79,18 @@
   - Debian
   - Suse Leap or Enterprise
   - Kali Linux
-- or install them all...
+  - or all of them in parallel...
+- run to finish the installation
 @ulend
+
+---
+
+# Setup
+
+- install a good terminal (cmder)
+- install software you need using the built in tools
+
+@snap[south-east terminal]
+![cmder](assets/img/cmder.png)
+@snapend
+-
