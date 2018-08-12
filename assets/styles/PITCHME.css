@@ -76,7 +76,7 @@ body {
   max-with: 15%;
 }
 
-.setup-title {
+.reveal .setup-title {
   font-family: var(--lobster);
   font-size: 4.5rem;
   color: var(--orange-lighter);

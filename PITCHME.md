@@ -11,7 +11,9 @@
 ---
 
 ## Web Devlopment on Windows? srsly?
+@transition[fade]
 ![Srsly](assets/img/srsly.gif)
+@transitionend
 ---
 
 ## But...
@@ -84,33 +86,11 @@
 @ulend
 
 ---
-@snap[north-west setup-title]
-Setup
-@snapend
 
-@snap[west setup-bullets]
-@ul[](false)
-- install a good terminal (cmder)
-@ulend
-@snapend
-
-@snap[east terminal]
-![cmder](assets/img/cmder.png)
-@snapend
+# Setup
 
 ---
-@snap[north-west setup-title]
-Setup
-@snapend
-
-@snap[west setup-bullets]
-@ul[](false)
-- install a good terminal (cmder)
-- install software you need using the built in tools
-@ulend
-@snapend
-
-@snap[east terminal]
 ![cmder](assets/img/cmder.png)
-@snapend
+[cmder](http://cmder.net)<br>
+<small>Alternative Hyper, [hyper.is](https://hyper.is)</small>
 ---
