@@ -83,14 +83,11 @@
 - run to finish the installation
 @ulend
 
----
-
+---?image=assets/img/cmder.jpg&position=-50% -50%
 # Setup
-
+@ul
 - install a good terminal (cmder)
 - install software you need using the built in tools
+@ulend
 
-@snap[south-east terminal]
-![cmder](assets/img/cmder.png)
-@snapend
 -
