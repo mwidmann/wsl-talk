@@ -10,19 +10,19 @@
 
 ---
 
-## Web Devlopment on Windows? srsly?
+# Web Development on Windows? srsly?
 @ul[plain]
 ![Srsly](assets/img/srsly.gif)
 @ulend
 ---
 
-## But...
+# But...
 
 ---?image=assets/img/google.gif&size=cover&position=center center
 
 ---
 
-## Why macOS for Web Development?
+# Why macOS for Web Development?
 
 @ul
 - Nice to look at hardware making one feel special
@@ -36,7 +36,7 @@
 
 ---
 
-## Why Windows for Web Development?
+# Why Windows for Web Development?
 
 @ul
 - Much wider variety of devices to choose from @note[cheaper and with more features in many cases]
@@ -48,7 +48,7 @@
 
 ---
 
-## Differences macOS/Windows
+# Differences macOS/Windows
 
 @ul
 - Command diffences: `Cmd` vs. `Crtl`
