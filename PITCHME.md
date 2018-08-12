@@ -139,27 +139,21 @@ Note:
 
 ---
 
-# Alternative Programs on Windows
+# Alternatives on Windows
 
 ---
-@snap[north comparison-title]
-Terminal
+@snap[north]
+<h2>Terminal</h2>
 @snapend
 
-@snap[west comparison]
-![courtesy Falkor on github](https://raw.githubusercontent.com/Falkor/dotfiles/master/screenshots/screenshot_falkor_iterm.png)<br/>
-  iTerm2
-@snapend
-
-@snap[east comparison]
+@snap[midpoint]
 ![cmder](assets/img/cmder.png)
 <br>
 [cmder](http://cmder.net)
-@snapend
-
-@snap[south]
+<br>
 <small>Alternative Hyper, [hyper.is](https://hyper.is)</small>
 @snapend
+
 ---
 
 @snap[north comparison-title]
@@ -212,3 +206,7 @@ Productivity
 <br>
 [Wox](http://www.wox.one)
 @snapend
+
+---
+
+# Questions?
