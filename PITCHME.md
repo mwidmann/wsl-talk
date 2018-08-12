@@ -26,7 +26,7 @@
 
 @ul
 - Nice to look at hardware making one feel special
-  - 10 years age
+  - 10 years ago
 - pretty (and) stable operating system
 - Good/mostly consistent design language
 - Good tools
@@ -77,10 +77,22 @@
 
 @ul
 - have access to almost all linux programs (by distribution)
-- run windows and linux programs seamlessly
+- run windows and linux programs seamlessly @note[there's wslbridge for running linux commands in windows context, paths are converted automatically]
 - install various linux distributions in parallel
 - use ssh without using putty
 - run cron jobs, install network services, do cool stuff
+@ulend
+
+---
+
+# Things not so nice in WSL...
+
+@ul
+- The difference in paths still remains
+- Need to install (and maintain) tools twice @note[windows IDEs rely on windows tools]
+- I/O performance is worse @note[can be made better by excluding files/folders in Windows Defender]
+- git on windows/wsl can make your life hell @note[need to force eol to lf and filemode to false]
+- files in WSL filesystem can't be edited with Windows tools
 @ulend
 
 ---
@@ -95,15 +107,19 @@
 
 ---
 
-# Things not so nice in WSL...
+# My Setup
 
 @ul
-- The difference in paths still remains
-- Need to install (and maintain) tools twice @note[windows ides rely on windows tools]
-- IO performance is worse @note[can be made better by excluding files/folders in Windows Defender]
-- git on windows/wsl can make your life hell @note[need to force eol to lf and filemode to false]
-- files in WSL filesystem can't be edited with Windows tools
+- Server environment running in Docker, services composed through docker-compose @note[running on windows, with the docker client installed in WSL using the api]
+- A mix of Visual Studio Code and PhpStorm (just started using it)
+- zsh with prezto and pure theme @note[because of async git polling which makes it snappy even in large repositories]
+- Git mostly in Shell @note[but once the issues with line ends and filemodes, gui can be used as well]
 @ulend
+
+Note:
+- mainly develop in php, javascript
+- Webserver still Apache with mod_php for easier maintenance
+- Trusted self signed certificates with minica for local PWA development
 
 ---
 
