@@ -154,59 +154,70 @@ Note:
 <small>Alternative Hyper, [hyper.is](https://hyper.is)</small>
 @snapend
 
+Note:
+- iTerm2
+- Mac Terminal
 ---
 
-@snap[north comparison-title]
-MySQL client
+@snap[north]
+<h2>MySQL client</h2>
 @snapend
 
-@snap[west comparison]
-![Sequel Pro](https://camo.githubusercontent.com/2953ab2f55c24e16550bac4478c6f454e864b469/68747470733a2f2f73657175656c70726f2e636f6d2f696d616765732f62726f7773652e706e67)
-<br/>
-  Sequel Pro
-@snapend
-
-@snap[east comparison]
+@snap[midpoint]
 ![HeidiSQL](https://www.heidisql.com/images/screenshots/database.png)
 <br>
 [HeidiSQL](https://www.heidisql.com)
 @snapend
 
+Note:
+- SequelPro
 ---
-@snap[north comparison-title]
-Quick Look
+@snap[north]
+<h2>Quick Look</h2>
 @snapend
 
-@snap[west comparison]
-![Quick Look](https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/Product_Help/en_US/PUBLIC_USERS/PL124/S0052_Preview.png)
-<br/>
-  Built in Quick Look
-@snapend
-
-@snap[east comparison]
+@snap[midpoint]
 ![quicklook](https://store-images.s-microsoft.com/image/apps.17552.14405803611253731.f98cdd0b-804a-4451-892c-8f66e59e65a4.4ecde082-1946-4f39-89d2-400bf4c8e0ea?w=1399&h=1035&q=60)
 <br>
 [Quicklook](https://www.microsoft.com/de-at/p/quicklook/9nv4bs3l1h4s#)
 @snapend
 
+Note:
+- built in in macOS
 ---
 
-@snap[north comparison-title]
-Productivity
+@snap[north]
+<h2>Productivity</h2>
 @snapend
 
-@snap[west comparison]
-![Alfred](https://www.alfredapp.com/media/pages/home/search.jpg)
-<br/>
-  Alfred
-@snapend
-
-@snap[east comparison]
+@snap[midpoint]
 ![Wox](http://www.wox.one/images/wox_preview.jpg)
 <br>
 [Wox](http://www.wox.one)
 @snapend
 
+Note:
+- Alfred
+
+---
+
+@snap[north]
+<h2>Graphics</h2>
+@snapend
+
+@snap[midpoint]
+![Paint.net](https://www.getpaint.net/screenshots/pdn40_kirkland.jpg)
+<br>
+[Paint.net](https://www.getpaint.net/index.html)
+<br>
+<small>Alternatives [Figma](https://www.figma.com/) or [Gravit Designer](https://designer.io/)</small>
+
+@snapend
+
 ---
 
 # Questions?
+
+---
+
+![Thank you](https://media.giphy.com/media/xIJLgO6rizUJi/giphy.gif)
