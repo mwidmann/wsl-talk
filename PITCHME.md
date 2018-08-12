@@ -11,9 +11,9 @@
 ---
 
 ## Web Devlopment on Windows? srsly?
-@transition[fade]
+@ul[plain]
 ![Srsly](assets/img/srsly.gif)
-@transitionend
+@ulend
 ---
 
 ## But...
@@ -73,24 +73,49 @@
 
 ---
 
-# Installation
+# Features
+
 @ul
-- enable WSL feature in Windows 10
-- choose distribution of choice in Windows Store
-  - Ubuntu
-  - Debian
-  - Suse Leap or Enterprise
-  - Kali Linux
-  - or all of them in parallel...
-- run to finish the installation
+- have access to almost all linux programs (by distribution)
+- run windows and linux programs seamlessly
+- install various linux distributions in parallel
+- use ssh without using putty
+- run cron jobs, install network services, do cool stuff
 @ulend
 
 ---
 
-# Setup
+# Installation
+
+@ul
+- enable WSL feature in Windows 10
+- choose distribution of choice in Windows Store @note[ubuntu 18.04, debian Strech, Suse Leap or Enterprise, Kali Linux]
+- run installed distro to finish the installation
+@ulend
 
 ---
+
+# Things not so nice in WSL...
+
+@ul
+- The difference in paths still remains
+- Need to install (and maintain) tools twice @note[windows ides rely on windows tools]
+- IO performance is worse @note[can be made better by excluding files/folders in Windows Defender]
+- git on windows/wsl can make your life hell @note[need to force eol to lf and filemode to false]
+- files in WSL filesystem can't be edited with Windows tools
+@ulend
+
+---
+
+# Alternative Programs on Windows
+
+---
+## Get a Terminal
+
 ![cmder](assets/img/cmder.png)
+
 [cmder](http://cmder.net)<br>
 <small>Alternative Hyper, [hyper.is](https://hyper.is)</small>
 ---
+
+## Install zsh and prezto
