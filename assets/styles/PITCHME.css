@@ -17,7 +17,7 @@ body {
   background-color: var(--blue);
 }
 .reveal {
-  font-family: var(--bebas);
+  letter-spacing: -0.2rem;
 }
 .reveal h1, .reveal h2 {
   text-transform: none;
@@ -70,21 +70,5 @@ body {
   max-width: 10%;
 }
 .reveal ul li img {
-  max-width: 50%;
-}
-.reveal ul li img.wsl-dist {
-  max-with: 15%;
-}
-
-.reveal .setup-title {
-  font-family: var(--lobster);
-  font-size: 4.5rem;
-  color: var(--orange-lighter);
-}
-.setup-bullets {
-  width: 50%;
-}
-
-.terminal img {
   max-width: 50%;
 }

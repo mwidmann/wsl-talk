@@ -30,12 +30,24 @@
 - pretty (and) stable operating system
 - Good/mostly consistent design language
 - Good tools
-- BSD core for a very similar environment than on the servers running Linux
-  - which sometime is pretty different
-- homebrew
+- BSD core for a very similar environment than on most servers @note[there can be very drastic differences though in the way the commands work]
+- [homebrew](https://brew.sh)
 @ulend
 
 ---
+
+## Why Windows for Web Development?
+
+@ul
+- Much wider variety of devices to choose from @note[cheaper and with more features in many cases]
+- pretty (and) stable operating system (ymmv)
+- Good tools @note[We'll talk alternatives later...]
+- Almost all tools are available for Windows in binary form as well
+- [Chocolatey](https://chocolatey.org/)
+@ulend
+
+---
+
 ## Differences macOS/Windows
 
 @ul
@@ -110,8 +122,9 @@
 # My Setup
 
 @ul
-- Server environment running in Docker, services composed through docker-compose @note[running on windows, with the docker client installed in WSL using the api]
-- A mix of Visual Studio Code and PhpStorm (just started using it)
+- Server environment running in Docker for Windows
+- Services composed through docker-compose
+- A mix of Visual Studio Code and PhpStorm
 - zsh with prezto and pure theme @note[because of async git polling which makes it snappy even in large repositories]
 - Git mostly in Shell @note[but once the issues with line ends and filemodes, gui can be used as well]
 @ulend
@@ -119,6 +132,7 @@
 Note:
 - mainly develop in php, javascript
 - Webserver still Apache with mod_php for easier maintenance
+- CLI tools installed in Docker accessing the windows installation through the API
 - Trusted self signed certificates with minica for local PWA development
 
 ---
