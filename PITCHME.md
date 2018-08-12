@@ -12,7 +12,7 @@
 
 ## Web Development on Windows? srsly?
 @ul[plain]
-![Srsly](assets/img/srsly.gif)
+![Srsly](https://media.giphy.com/media/3o6fISHv9ZLyBA66qI/giphy.gif)
 @ulend
 ---
 
