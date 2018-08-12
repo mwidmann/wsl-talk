@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two:700');
+@import url("https://use.typekit.net/jpo6jxj.css");
+:root {
+  /* palette courtesy of http://www.colourlovers.com/palette/92095/Giant_Goldfish */
+  --black: #333333;
+  --blue: #69D2E7;
+  --blue-lighter: #A7DBD8;
+  --twitter-blue: #55acee;
+  --lime: #E0E4CC;
+  --orange-lighter: #F38630;
+  --orange: #FA6900;
+  --lobster: "Lobster Two";
+  --bebas: "bebas-neue-by-fontfabric";
+}
+body {
+  font-size: 16px;
+  background-color: var(--blue);
+}
+.reveal {
+  letter-spacing: -0.2rem;
+}
+.reveal h1, .reveal h2 {
+  text-transform: none;
+  font-family: var(--lobster);
+}
+.reveal code {
+  padding: 0.1em 0.3em;
+  margin: 0;
+  font-size: 80%;
+  background-color: rgba(27,31,35,0.05);
+  border-radius: 3px;
+  font-family: 'Dank Mono', 'Fira Code', 'Menlo', monospace;
+}
+.reveal section img {
+  border-width: 0;
+}
+.reveal h1 {
+  line-height: 1;
+  font-size: 4.5rem;
+  color: var(--orange-lighter);
+}
+.reveal h1 .max {
+  font-family: var(--bebas);
+  font-size: 9rem;
+  letter-spacing: -0.2rem;
+  color: var(--black);
+  display: block;
+}
+.reveal h2 {
+  font-size: 3rem;
+}
+.bio {
+  font-family: var(--bebas);
+  font-size: 3.5rem;
+  color: var(--black);
+}
+.bio span {
+  display: block;
+}
+.bio .bio-name {
+  font-family: var(--lobster);
+  font-size: 4rem;
+}
+.bio .bio-byline {
+  font-family: var(--lobster);
+  color: var(--twitter-blue);
+  font-size: 2rem;
+}
+.small img {
+  max-width: 10%;
+}
+.reveal ul li img {
+  max-width: 50%;
+}
+
+.reveal .comparison-title {
+  font-family: var(--lobster);
+  font-size: 4rem;
+}
+
+.reveal .comparison img {
+  max-width: 50%;
+}
