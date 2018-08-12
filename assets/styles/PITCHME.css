@@ -73,6 +73,11 @@ body {
   max-width: 50%;
 }
 
+.reveal .comparison-title {
+  font-family: var(--lobster);
+  font-size: 4rem;
+}
+
 .reveal .comparison img {
   max-width: 45%;
 }

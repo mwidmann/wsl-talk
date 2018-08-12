@@ -143,7 +143,7 @@ Note:
 
 ---
 @snap[north comparison-title]
-# Terminal
+Terminal
 @snapend
 
 @snap[west comparison]
@@ -152,7 +152,8 @@ Note:
 @snapend
 
 @snap[east comparison]
-![cmder](assets/img/cmder.png)<br>
+![cmder](assets/img/cmder.png)
+<br>
 [cmder](http://cmder.net)<br>
 <small>Alternative Hyper, [hyper.is](https://hyper.is)</small>
 @snapend
