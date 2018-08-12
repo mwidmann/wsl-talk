@@ -75,3 +75,16 @@ body {
 .reveal ul li img.wsl-dist {
   max-with: 15%;
 }
+
+.setup-title {
+  font-family: var(--lobster);
+  font-size: 4.5rem;
+  color: var(--orange-lighter);
+}
+.setup-bullets {
+  width: 50%;
+}
+
+.terminal img {
+  max-width: 50%;
+}

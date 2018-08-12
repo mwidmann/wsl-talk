@@ -84,27 +84,30 @@
 @ulend
 
 ---
-@snap[north-west title]
-@size[9rem](Setup)
+@snap[north-west setup-title]
+Setup
 @snapend
 
-@snap[west]
+@snap[west setup-bullets]
+@ul[](false)
 - install a good terminal (cmder)
+@ulend
 @snapend
 
 @snap[east terminal]
 ![cmder](assets/img/cmder.png)
 @snapend
----
 
 ---
-@snap[north-west title]
-@size[9rem](Setup)
+@snap[north-west setup-title]
+Setup
 @snapend
 
-@snap[west]
+@snap[west setup-bullets]
+@ul[](false)
 - install a good terminal (cmder)
 - install software you need using the built in tools
+@ulend
 @snapend
 
 @snap[east terminal]
