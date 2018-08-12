@@ -72,18 +72,12 @@
 ---
 
 # Installation
-
+@ul
 - enable WSL feature in Windows 10
-![enable feature](assets/img/enable-wsl.png)
-
----
-
-# Installation
-
-- enable WSL feature in Windows 10
-- choose distribution of choice in Windows Store<br>
-![Ubuntu](assets/img/ubuntu.png)(.wsl-dist)
-![Debian](assets/img/debian.png)(.wsl-dist)
-![Suse Leap](assets/img/suse-leap.png)(.wsl-dist)
-![Suse Enterprise](assets/img/suse-enterprise.png)(.wsl-dist)
-![Kali Linux](assets/img/kali.png)(.wsl-dist)
+- choose distribution of choice in Windows Store
+  - Ubuntu
+  - Debian
+  - Suse Leap or Enterprise
+  - Kali Linux
+- or install them all...
+@ulend
