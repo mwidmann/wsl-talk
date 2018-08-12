@@ -42,7 +42,7 @@
 - Much wider variety of devices to choose from @note[cheaper and with more features in many cases]
 - pretty (and) stable operating system (ymmv)
 - Good tools @note[We'll talk alternatives later...]
-- Almost all tools are available for Windows in binary form as well
+- Almost all tools are available for Windows as well
 - [Chocolatey](https://chocolatey.org/)
 @ulend
 
@@ -125,8 +125,10 @@
 - Server environment running in Docker for Windows
 - Services composed through docker-compose
 - A mix of Visual Studio Code and PhpStorm
+  - with VIM extensions @note[driving me crazy sometimes]
+- debian as the primary WSL distro, Ubuntu 18.04 alongside it
 - zsh with prezto and pure theme @note[because of async git polling which makes it snappy even in large repositories]
-- Git mostly in Shell @note[but once the issues with line ends and filemodes, gui can be used as well]
+- git mostly in Shell @note[but once the issues with line ends and filemodes, gui can be used as well]
 @ulend
 
 Note:
@@ -140,12 +142,20 @@ Note:
 # Alternative Programs on Windows
 
 ---
-## Get a Terminal
+@snap[north comparison-title]
+# Terminal
+@snapend
 
-![cmder](assets/img/cmder.png)
+@snap[west comparison]
+![courtesy Falkor on github](https://raw.githubusercontent.com/Falkor/dotfiles/master/screenshots/screenshot_falkor_iterm.png)<br/>
+  iTerm2
+@snapend
 
+@snap[east comparison]
+![cmder](assets/img/cmder.png)<br>
 [cmder](http://cmder.net)<br>
 <small>Alternative Hyper, [hyper.is](https://hyper.is)</small>
+@snapend
 ---
 
 ## Install zsh and prezto
