@@ -8,12 +8,25 @@
 @css[bio-byline](@fa[twitter pad-fa] mwidmann)
 @snapend
 
+Note:
+- been a Mac user for many years
+  - started with a 12" Powerbook
+  - updated to an Intel Macbook Pro as soon as they came out
+  - been a Mac user since
+  - last Mac was a 2015 retina iMac with i7 and 16GB of Ram
+- switched completely to Windows in April 2018 after being an avid Surface User for the past couple of years
+  - switch made possible thanks to WSL
+
 ---
 
 ## Web Development on Windows? srsly?
 @ul[plain]
 ![Srsly](https://media.giphy.com/media/3o6fISHv9ZLyBA66qI/giphy.gif)
 @ulend
+
+Note:
+- You don't hear so many good things about Windows in the past, but Microsoft has done plenty of good work in the past couple of years to make this better, even becoming the *top open source contributor on GitHub*
+
 ---
 
 ## But...
